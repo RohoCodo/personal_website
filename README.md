@@ -1,13 +1,13 @@
 <br />
 <div align="center">
-  <h3 align="center"><a href="https://juliagrandury.github.io/">Welcome to my Portfolio👋</a></h3>
+  <h3 align="center"><a href="https://rohantyagi.github.io/">Welcome to my Portfolio👋</a></h3>
   <p align="center">
     Feel free to click around and learn more about me!
     <br />
     <br />
-    <a href="https://github.com/JuliaGrandury/juliagrandury.github.io/issues">Report Bug</a>
+<!--     <a href="https://github.com/RohanTyagi/rohantyagi.github.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JuliaGrandury/juliagrandury.github.io/issues">Request Feature</a>
+    <a href="https://github.com/RohanTyagi/rohantyagi.github.io/issues">Request Feature</a> -->
   </p>
 </div>
 
