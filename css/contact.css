@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.contact-form{
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+.contact-buttons{
+    margin-bottom: 3rem;
+}
+.contact-buttons ul{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.contact-buttons li{
+    list-style: none;
+}
+.contact-buttons li a{
+    text-decoration: none;
+    padding: 0 10px;
+}
+.contact-icons{
+    width: 35px;
+    padding: 5px;
+    border: solid 1px #64ffda;
+    border-radius: 3px;
+}
+.contact-icons:hover{
+    background-color: rgba(100, 255, 218, 0.4);
+}
