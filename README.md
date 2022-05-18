@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <h3 align="center"><a href="https://rohantyagi.github.io/">Welcome to my Portfolio👋</a></h3>
+  <h3 align="center"><a href="https://rohocodo.github.io/personal_website/">Welcome to my Portfolio👋</a></h3>
   <p align="center">
     Feel free to click around and learn more about me!
     <br />
